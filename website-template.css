@@ -1,0 +1,106 @@
+#jumbotron {
+  display: block;
+  width: 1140px;
+  font-size: 14px;
+  padding: 48px 60px;
+}
+
+#container {
+  width: 1170px;
+  margin-top:50px;
+  /*margin-left: 89.5px;
+  margin-right: 89.5px;
+  line-height: 20px;
+  padding-left: 15px;
+  padding-right: 15px;*/
+
+}
+
+marketing {
+  margin: 200px 100px;
+  width: 1170px;
+  height: 905px;
+  position: relative;
+}
+
+
+
+}
+
+#header {
+  margin: 20px 0px 10px 0px;
+  font-size: 36px;
+  font-weight:700;
+  font-height: 69px;
+  text-align: center;
+  padding: 5px;
+}
+
+#header {
+  color: #20C9C1;
+}
+
+#section {
+  width: 620px;
+  float: left;
+}
+
+#section2 {
+  width: 340px;
+  float: right;
+}
+
+#section, #section2 {
+  font-size: 18px;
+  color: #ffa328;
+  font-weight: 400;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  color: #20C9C1;
+}
+
+.row ,h2.title {
+  font-size: 24px;
+}
+
+h2.heading {
+  font-family:inherit;
+  font-weight:700;
+  font-size: 18px;
+  color: #ffa328;
+}
+
+.form-horizontal {
+  color: #ffa328;
+}
+
+img {
+
+}
+
+p.indent {
+  text-indent: 50px;
+}
+
+p#indentmore {
+  text-indent: 100px;
+}
+
+/*hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}*/
+
+footer {
+  width: 1020px;
+  margin: 0px 89.5px 0px 89.5px;
+  clear: both;
+}
